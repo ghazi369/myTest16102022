@@ -23,7 +23,7 @@ export class Users {
     }
 }
 // 0.00274 - 0.0027397261
-// const user1 = new Users('Ghazi', 19, '0555655369', 'gh@gh.com');
+// const user1 = new Users('Ghazi', 19, '0555555555', 'gh@gh.com');
 
 //user1.getinfo()
 // user1.getDays()
